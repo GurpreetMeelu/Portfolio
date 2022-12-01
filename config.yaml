@@ -1,0 +1,49 @@
+module:
+    hugoVersion:
+        extended: true
+        min: "0.87.0"
+baseURL: http://localhost:1313/
+title: Gurpreet Meelu
+keywords: Gurpreet Meelu
+description: Gurpreet Meelu
+paginate: 10
+hasCJKLanguage: true
+languageCode: 'en-us'
+theme: # "hugo-theme-onelou"
+params:
+  opengraph:
+    github: 'https://github.com/GurpreetMeelu'
+    kaggle: 'https://www.kaggle.com/gurpreetmeelu'
+    linkedin: 'https://www.linkedin.com/in/gurpreetmeelu900/'
+    mail: 'mailto:gurpreetmeelu900@gmail.com'
+   # twitter: 'https://twitter.com'
+   # facebook: 'https://facebook.com'
+  footer:
+    hidePowered: true #lsfhhWHFL
+    beian: # ICP备案号
+    gongan:
+      # code: 公安备案号XXXX
+      # txt: 京公网安备XXXX号
+    since: 2022
+    copyright: Gurpreet Meelu
+  prefix:
+    h2: "※ "
+    h3: "✧ "
+menu:
+  navs:
+    - name: Blog
+      params:
+        img: /img/logo1.png
+      url: /post/
+      weight: 1
+    - name: Projects
+      params:
+        img: /img/logo2.png
+      url: /projects/
+      weight: 2
+    - name: About
+      params:
+        img: /img/logo3.png
+      url: /about
+      weight: 3
+
