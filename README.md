@@ -1,2 +1,1 @@
-# gurpreetmeelu.github.io
 
