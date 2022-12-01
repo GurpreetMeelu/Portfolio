@@ -2,7 +2,7 @@ module:
     hugoVersion:
         extended: true
         min: "0.87.0"
-baseURL: http://localhost:1313/
+baseURL: https://gurpreetmeelu.github.io/
 title: Gurpreet Meelu
 keywords: Gurpreet Meelu
 description: Gurpreet Meelu
