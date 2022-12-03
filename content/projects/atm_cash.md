@@ -2,10 +2,10 @@
 title: "ATM Cash Demand Forecasting 💸"
 # date: 2022-09-01T10:17:19+08:00
 draft: false
-cover: "https://github.com/GurpreetMeelu/tracking-next-viral-pandemic-using-data/blob/master/pngs/wallhaven-2eo1gm.jpg?raw=true"
+cover: "https://www.notion.so/images/page-cover/rijksmuseum_avercamp_1620.jpg"
 ---
 
-![ATM Cash Demand Forecasting](https://github.com/GurpreetMeelu/tracking-next-viral-pandemic-using-data/blob/master/pngs/wallhaven-2eo1gm.jpg?raw=true)
+![ATM Cash Demand Forecasting](https://www.notion.so/images/page-cover/rijksmuseum_avercamp_1620.jpg)
 
 ## Introduction
 One of the most common problems related to banking systems is the Automated Teller Machine (ATM) cash demand forecasting. Cash shortage adversely affects customer satisfaction, while too much cash reduces bank’s profitability. In this project we have developed an ATM cash prediction system using different traditional statistical and machine learning approaches, including linear regression, Decision Forest, Random Forest, XGBoost and FB Prophet on the same ATM data. We have also compared the results of these methods
