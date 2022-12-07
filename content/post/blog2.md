@@ -1,6 +1,7 @@
 ---
 title: "Unpacking Arguments in Python with *args and **kwargs"
 draft: false
+date: 07-06-2022
 ---
 
 ![https://miro.medium.com/max/1140/1*WizgUsFeUgISS7vkFl4dEA.jpeg](https://miro.medium.com/max/1140/1*WizgUsFeUgISS7vkFl4dEA.jpeg)
