@@ -21,4 +21,4 @@ To use Image Purge, the user simply needs to provide a folder containing their p
 
 Overall, Image Purge is a convenient and effective way to declutter a digital photo collection and make it more organized and manageable. By using the latest advances in deep learning, it can accurately identify and remove unwanted images with minimal effort on the part of the user.
 
-> [Github](https://github.com/GurpreetMeelu/image-purge)
+> # [Github](https://github.com/GurpreetMeelu/image-purge)
