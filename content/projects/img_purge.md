@@ -5,10 +5,6 @@ draft: false
 cover: "https://i.pinimg.com/originals/85/b0/5e/85b05e3beb1063bd9c9c7c5fa8210d3e.png"
 ---
 
-
-
-# Image-Purge
-
 ![Screenshot](https://i.pinimg.com/originals/85/b0/5e/85b05e3beb1063bd9c9c7c5fa8210d3e.png)
 
 The idea behind this project is declutter all the images of notes after the exam. Before the exam you have lot of images of notes in your directory and you have to manually delete them after the exam which are in mix with your regular images.
