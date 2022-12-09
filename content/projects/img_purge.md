@@ -2,10 +2,10 @@
 title: "Image-Purge 🧹"
 # date: 2022-09-01T10:17:19+08:00
 draft: false
-cover: "https://i.pinimg.com/originals/85/b0/5e/85b05e3beb1063bd9c9c7c5fa8210d3e.png"
+cover: "https://images3.alphacoders.com/880/880411.jpg"
 ---
 
-![Screenshot](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReCgm5hNxsitVJykdA-L8YNV-3_f914NKnXQ&usqp=CAU)
+![Screenshot](https://images3.alphacoders.com/880/880411.jpg)
 
 ## Introduction
 The idea behind this project is declutter all the images of notes after the exam. Before the exam you have lot of images of notes in your directory and you have to manually delete them after the exam which are in mix with your regular images.
